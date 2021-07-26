@@ -7,6 +7,6 @@
     "build": "tsc lib/*.ts --outDir out"
   },
   "keywords": [],
-  "author": "",
+  "author": "GOSSIO",
   "license": "ISC"
 }
