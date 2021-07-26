@@ -1,0 +1,13 @@
+{
+  "name": "ObserverPattern",
+  "version": "1.0.0",
+  "main": "index.js",
+  
+  "scripts": {
+    "build": "tsc lib/*.ts  --outDir out"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
