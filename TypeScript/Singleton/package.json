@@ -1,7 +1,7 @@
 {
   "name": "Singleton",
   "version": "1.0.0",
-  "description": "",
+  "description": "Design Pattern",
   "main": "index.js",
   "scripts": {
     "build": "tsc lib/*.ts --outDir out"
